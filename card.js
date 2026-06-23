@@ -1,5 +1,5 @@
 const ESP32_URL =
-  "http://192.168.1.10/rfid";
+  "http://192.168.1.4/rfid";
 
 async function getRFID() {
 
